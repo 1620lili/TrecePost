@@ -3,6 +3,11 @@
     "prisma": "^6.15.0"
   },
   "dependencies": {
-    "@prisma/client": "^6.15.0"
+    "@nestjs/common": "^11.1.6",
+    "@nestjs/jwt": "^11.0.0",
+    "@nestjs/passport": "^11.0.5",
+    "@prisma/client": "^6.15.0",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1"
   }
 }
